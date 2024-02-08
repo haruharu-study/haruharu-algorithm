@@ -7,8 +7,8 @@
 
 | 날짜         |0205|0206|0207|0208|
 |------------|---|---|---|---|
-| honki12345 |O|O|O||
-| harvartz   |O|O|O||
-| derevgen   |O|O|O||
+| honki12345 |O|O|O|O|
+| harvartz   |O|O|O|O|
+| derevgen   |O|O|O|O|
 | shin-6-0   |O|O|O||
-| kimjiheej |O|O|O||
+| kimjiheej |O|O|O|O|
