@@ -10,5 +10,5 @@
 | honki12345 |O|O|O|O|
 | harvartz   |O|O|O|O|
 | derevgen   |O|O|O|O|
-| shin-6-0   |O|O|O||
+| shin-6-0   |O|O|O|O|
 | kimjiheej |O|O|O|O|
