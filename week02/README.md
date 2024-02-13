@@ -2,8 +2,8 @@
 
 | 날짜         |0213|0214|0215|0216|
 |------------|---|---|---|---|
-| honki12345 |||||
-| harvartz   |||||
+| honki12345 |O||||
+| harvartz   |O||||
 | derevgen   |||||
-| shin-6-0   |||||
-| kimjiheej |||||
+| shin-6-0   |O||||
+| kimjiheej |O||||
