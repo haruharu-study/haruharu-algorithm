@@ -2,8 +2,8 @@
 
 | 날짜         |0219|0220|0221|0222|0223|
 |------------|---|---|---|---|---|
-| honki12345 |O|||||
-| harvartz   |O|||||
-| derevgen   |O|||||
-| shin-6-0   |O|||||
-| kimjiheej |O|||||
+| honki12345 |O|O||||
+| harvartz   |O|O||||
+| derevgen   |O|O||||
+| shin-6-0   |O|O||||
+| kimjiheej |O|O||||
