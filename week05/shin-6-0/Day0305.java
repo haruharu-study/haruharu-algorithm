@@ -1,33 +1,25 @@
 import java.io.BufferedReader;
-import java.io.InputStreamReader;
+import java.io.BufferedWriter;
 import java.io.IOException;
- 
+import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
+
 public class Day0305 {
- 
-	static long[] arr;
-    
-	public static void main(String[] args) throws IOException {
-		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		
-		int N = Integer.parseInt(br.readLine());
-		
-		arr = new long[N + 1];
- 
-		for(int i = 0; i < N + 1; i++) {
-			arr[i] = -1;
+	public static int func(int n) {
+		int[] fibos = new int[n+1];
+		fibos[1]=fibos[2]=1;
+		for(int i=3;i<=n;i++) {
+			fibos[i]=fibos[i-1]+fibos[i-2];
 		}
-        
-		arr[0] = 0;
-		arr[1] = 1;
-		System.out.println(Fib(N));
+		return fibos[n];
 	}
 	
-	public static long Fib(int N) {
-		if(arr[N] == -1) {
-			arr[N] = Fib(N - 1) + Fib(N - 2);
-		}
-		return arr[N];
+	public static void main(String[] args) throws IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+		int n = Integer.parseInt(br.readLine());
+		bw.append(func(n)+" "+(n-2));
+		bw.close();
+		br.close();
 	}
- 
 }
- 
