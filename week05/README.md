@@ -2,8 +2,8 @@
 
 | 날짜         |0304|0305|0306|0307|0308|
 |------------|---|---|---|---|---|
-| honki12345 |-|||||
-| harvartz   |O|||||
-| derevgen   |O|||||
-| shin-6-0   |O|||||
-| kimjiheej |O|||||
+| honki12345 |-|O||||
+| harvartz   |O|X||||
+| derevgen   |O|O||||
+| shin-6-0   |O|O||||
+| kimjiheej |O|O||||
